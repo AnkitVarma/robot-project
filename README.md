@@ -1,6 +1,6 @@
 # robot-project
 
-Activating virtual environment
+Activating virtual environment 
 
 For Windows
 To start: proj-env\Scripts\activate
