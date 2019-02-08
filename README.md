@@ -1,15 +1,11 @@
 # robot-project
 
-To activate virtual environment
+Activating virtual environment
 
 For Windows
-
-Run: proj-env\Scripts\activate
-
-Stop: deactivate
+To start: proj-env\Scripts\activate
+To stop: deactivate
 
 For Raspberry Pi
-
-Run: source proj-env/Scripts/activate
-
-Stop: deactivate
+To start: source proj-env/Scripts/activate
+To stop: deactivate
